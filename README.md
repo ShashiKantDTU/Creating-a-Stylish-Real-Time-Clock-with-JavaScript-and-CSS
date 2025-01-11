@@ -1,4 +1,6 @@
 # Creating a Stylish Real-Time Clock with JavaScript and CSS
+## Screenshots
+![screenshot](/Creating-a-Stylish-Real-Time-Clock-with-JavaScript-and-CSS/Screenshot%202025-01-11%20052919.png)
 ## Date()
 `Date()` lets you fetch the current date, and by using the `new` keyword, the current date can be stored in a variable.
 
